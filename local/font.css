@@ -1,0 +1,23 @@
+*{
+
+    margin: 10;
+    padding: 10;
+}@font-face {
+    font-family: h1;
+    src: url("/font/Blaka-Regular.ttf");
+}
+@font-face{
+    font-family: para;
+    src: url("/font/Pacifico-Regular.ttf");
+}
+
+h1{
+    font-family: h1;
+    font-size: 80px;
+    color: blue;
+}
+p{
+    font-family: para;
+    font-size: 100px;
+    color: red;
+}
