@@ -1,0 +1,24 @@
+*{
+    margin:30;
+    padding:30;
+}
+.con{
+    
+    width: 80%;
+    text-align: justify;
+}
+.rel{
+    position: relative;
+}
+
+.abs{
+    
+    position: absolute;
+    right:1%;
+    top: 0px;
+}
+img{
+    width: 270px;
+    height: 170px;
+    
+}
